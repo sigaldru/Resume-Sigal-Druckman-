@@ -1,13 +1,13 @@
 #Sigal Druckman
 15803 Bear Creek PKWY, Apt E319, Redmond, 98052 | sclaudiadru@gmail.com | 425-697-0355
 #### Work experience
-_Medical Admin | Pro sports club [pro sports club]( https://www.proclub.com/)| 2014 – Present __  
-               -Managing the day-to-day operations of the clinic
-	-Scheduling and coordinating appointments
-	-Correspondence between medical providers and their patients
-	-Creating and updating patients’ electronic health records
-	-Verifying patient insurance
-	-Providing quality customer service to patients.
+**Medical Admin** | Pro sports club [pro sports club]( https://www.proclub.com/)| 2014 – Present __  
+        - Managing the day-to-day operations of the clinic
+	- Scheduling and coordinating appointments
+	- Correspondence between medical providers and their patients
+	- Creating and updating patients’ electronic health records
+	- Verifying patient insurance
+	- Providing quality customer service to patients.
 
 _Director boys & girls scouts | [Friends of Israel scouts]( http://www.shevetmatar.com/about_us ) | Bellevue | 2013-2014__  
                -Manage the programs and the activities of the scouts.
