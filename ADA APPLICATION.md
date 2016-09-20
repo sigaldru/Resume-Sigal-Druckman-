@@ -28,12 +28,11 @@
 	Managing calendars, planning meetings, making travel arrangements.   
 
 **Legal administrator**| [Gornitzky & Co, Low firm](http://www.gornitzky.com/) | Tel Aviv | 2012-2011 
-
-	Administrative assistant for 5 lawyers, general correspondence, maintained a multiple phone line system and answered all calls. Greeted the clients and visitors in a pleasant manner. 
+        Administrative assistant for 5 lawyers, general correspondence, maintained a multiple phone line system and answered all calls. Greeted the clients and visitors in a pleasant manner. 
 	Performed various administrative functions such as receiving and distributing all faxes and emails. Monitored the calendar for the firm and booked the conference room in accordance to the same. Managed all the data and maintained records by entering it on the data management system. Organized the inventory for the office supplies and made purchase orders.
 #### Education
 **Bachelor in art and design** | [Bezalel academy of arts and design]( http://www.bezalel.ac.il/en/ ) |Jerusalem| 2006-2010
- #### Military Background 
+#### Military Background 
 **Sergeant** | Air Force, technical supplier of aircraft spare parts | Israel | 2002-2004
 #### Technical Proficiency
 _HTML | CSS | Photoshop | Office:  Word, Excel, Outlook, PowerPoint, and Access.
