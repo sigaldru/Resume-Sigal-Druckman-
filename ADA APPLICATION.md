@@ -18,13 +18,12 @@
         -Planning the camps and the outdoor activities for the scouts.
 
 **Guest Service** | [The Rainier Club]( http://www.therainierclub.com ) | Seattle  | 2012-2014 
-
-	-Serve as first point of contact
-	-Fielding and routing telephone calls
-	-Greeting visitors
-	-Respond to customer and vendors inquiries
-	-Providing company information in person as well via email and telephone.
-        -Verify visitor identity and arrange escort.
+	- Serve as first point of contact
+	- Fielding and routing telephone calls
+	- Greeting visitors
+	- Respond to customer and vendors inquiries
+	- Providing company information in person as well via email and telephone.
+        - Verify visitor identity and arrange escort.
         - Perform a wide-ranging office function such us:
 	Managing calendars, planning meetings, making travel arrangements.   
 
