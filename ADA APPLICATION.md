@@ -28,6 +28,7 @@
 	Managing calendars, planning meetings, making travel arrangements.   
 
 **Legal administrator**| [Gornitzky & Co, Low firm](http://www.gornitzky.com/) | Tel Aviv | 2012-2011 
+
 	Administrative assistant for 5 lawyers, general correspondence, maintained a multiple phone line system and answered all calls. Greeted the clients and visitors in a pleasant manner. 
 	Performed various administrative functions such as receiving and distributing all faxes and emails. Monitored the calendar for the firm and booked the conference room in accordance to the same. Managed all the data and maintained records by entering it on the data management system. Organized the inventory for the office supplies and made purchase orders.
 #### Education
