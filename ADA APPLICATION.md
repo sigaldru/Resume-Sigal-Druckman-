@@ -18,6 +18,7 @@
         -Planning the camps and the outdoor activities for the scouts.
 
 **Guest Service** | [The Rainier Club]( http://www.therainierclub.com ) | Seattle  | 2012-2014 
+
 	-Serve as first point of contact
 	-Fielding and routing telephone calls
 	-Greeting visitors
